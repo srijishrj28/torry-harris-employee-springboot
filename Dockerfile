@@ -1,4 +1,4 @@
-#define base docker images 
+#define base docker images s
 FROM openjdk:17 
 MAINTAINER docker.net
 COPY target/employee-springboot-demo-1.0.jar docker-spring-application.jar
